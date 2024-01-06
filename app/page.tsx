@@ -23,13 +23,13 @@ const Home = async () => {
             </p>
 
             <h1 className="head-text">
-              Unleash the Power of
+              Tap into the Power of
               <span className="text-primary"> ZonTrack</span>
             </h1>
 
             <p className="mt-6">
-              Powerful, self-serve product and growth analytics to help you
-              convert, engage, and retain more.
+              Empowering insights for exponential growth: Convert, captivate,
+              and retain effortlessly!
             </p>
 
             <Searchbar />
